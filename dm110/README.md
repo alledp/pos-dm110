@@ -29,10 +29,10 @@ http://127.0.0.1:8080/dm110-web/api/suppliers/create
 body:
 
 {
-    "cnpj":103, 
-    "name":"lALALA", 
-    "email":"123@freedomfi.com", 
-    "cep":1231123,
+    "cnpj":103000212, 
+    "name":"Microsoft", 
+    "email":"sales@microsoft.com", 
+    "cep":37540000,
     "date":"22/05/2023", 
     "rate":8
 }
@@ -48,11 +48,11 @@ http://127.0.0.1:8080/dm110-web/api/suppliers/update/1
 body:
 
 {
-    "cnpj":103, 
-    "name":"lALALA", 
-    "email":"123@freedomfi.com", 
-    "cep":1231123,
-    "date":"22/05/2023", 
+    "cnpj":103000212, 
+    "name":"Microsoft", 
+    "email":"marketing@microsoft.com", 
+    "cep":37540000,
+    "date":"29/05/2023", 
     "rate":8
 }
 
